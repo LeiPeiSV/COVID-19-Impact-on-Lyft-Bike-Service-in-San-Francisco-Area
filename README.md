@@ -1,4 +1,4 @@
-# COVID 19 Impact on Lyft Bike Service in San Fransisco Area
+# COVID 19 Impact on Lyft Bike Service in San Francisco Area
 
 In this project, we choose Ford GoBike System Data for analysis and visualization. We explored some critical attributes of the bike rental service usage in 2019 till 2020 June. We will give a particular focus on the data after March 2020, when COVID-19 hit our daily life on almost all aspects. How it influenced people's choice of commute? Let's explore!
 
